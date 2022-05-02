@@ -1,0 +1,1000 @@
+   52  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   53  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+   54  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+   55  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+   56  clear
+   57  nvm install --lts
+   58  brew install wget && cd Downloads && wget -c https://raw.githubusercontent.com/lucas-rodrigges/softwares-trybe/main/mac-install.sh && chmod +x ./mac-install.sh && ./mac-install.sh
+   59  node -v && nvm -v && npm -v && git --version
+   60  cd Downloads && wget -c https://raw.githubusercontent.com/lucas-rodrigges/softwares-trybe/main/install.sh && chmod +x install.sh && sudo ./install.sh
+   61  node -v && nvm -v && npm -v && git --version
+   62  cd/
+   63  cd /
+   64  ls
+   65  ls -a
+   66  clear
+   67  ls -a
+   68  clear
+   69  ls
+   70  cd usr
+   71  ls
+   72  cd games
+   73  clear
+   74  cd
+   75  cd 
+   76  cd /
+   77  cd
+   78  ls
+   79  clear
+   80  ls
+   81  cd Downloads
+   82  cd
+   83  cd documentos
+   84  cd Documentos
+   85  mkdir trybe.exercicios
+   86  ls
+   87  cd trybe.exercicios/
+   88  clear
+   89  cd .
+   90  cd.
+   91  cd ..
+   92  pwd
+   93  clear
+   94  cd
+   95  clear
+   96  ls
+   97  cd Música
+   98  ls
+   99  mkdir trybe
+  100  ls
+  101  cd trybe
+  102  clear
+  103  cat help
+  104  /cat
+  105  help cat
+  106  clear
+  107  mkdir copia1
+  108  ls
+  109  cp copia1
+  110  cp copia1 copia2
+  111  clear
+  112  ls
+  113  rmdir copia1
+  114  ls
+  115  clear
+  116  ls
+  117  mkdir bla
+  118  ls
+  119  mv bla /Música
+  120  sudo  mv bla /Música
+  121  ls
+  122  cd ..
+  123  ls
+  124  cat trybe
+  125  cd trybe
+  126  ls
+  127  cd ..
+  128  pwd
+  129  /home/plinio/Música
+  130  c/home/plinio/Música
+  131  clear
+  132  ls
+  133  cd trybe
+  134  mkdir ba
+  135  ls
+  136  mv ba /home/plinio/Música
+  137  cd ..
+  138  ls
+  139  rmdir ba
+  140  clear
+  141  less
+  142  less --help
+  143  clear
+  144  ls
+  145  ls  ?
+  146  ls ?
+  147  ls ?r
+  148  ls ?rybe
+  149  3.txt
+  150  arquivos 3.txt
+  151  arquivo 3.txt
+  152  arquivo.txt
+  153  make arquivo.txt
+  154  ls 3.tct
+  155  ls 3.txt
+  156  clear
+  157  man
+  158  man ls
+  159  clear
+  160  whats cp
+  161  whatis cp
+  162  ls
+  163  cd Documentos
+  164  ls
+  165  cd trybe.exercicios/
+  166  ls
+  167  cd ..
+  168  mkdir unix.testes
+  169  ls
+  170  cd unix.testes/
+  171  clear
+  172  touch trybe.txt
+  173  ls
+  174  cat trybe.txt 
+  175  clear
+  176  ls
+  177  clear
+  178  cp trybe.txt trybeBackup.txt
+  179  ls
+  180  clear
+  181  ls
+  182  clear
+  183  rm trybeBackup.txt
+  184  ls
+  185  cp trybe.txt trybe_backup.txt
+  186  clear
+  187  ls
+  188  clear
+  189  rn --help
+  190  clear
+  191  rename --help
+  192  clear
+  193  mv trybe.txt turma23a.txt
+  194  cllear
+  195  clear
+  196  ls
+  197  clear
+  198  ls
+  199  cd..
+  200  cd ..
+  201  ls
+  202  cd unix.testes/
+  203  ls
+  204  clear
+  205  mkdir backup
+  206  ls
+  207  mv trybe_backup.txt backup
+  208  ls
+  209  cd backup/
+  210  ls
+  211  clear
+  212  pwd
+  213  mkdir backup2
+  214  ls
+  215  pwd
+  216  ls
+  217  rm backup2
+  218  sudo rm backup2
+  219  rmdir backup2
+  220  ls
+  221  cd..
+  222  cd ..
+  223  ls
+  224  mkdir backup2
+  225  ls
+  226  clear
+  227  ls
+  228  cd backup2
+  229  pwd
+  230  clear
+  231  cd ..
+  232  ls
+  233  cd backup
+  234  ls
+  235  mv trybe_backup.txt /home/plinio/Documentos/unix.testes/backup2
+  236  cd ..
+  237  ls
+  238  cd backup2
+  239  ls
+  240  clear
+  241  cd ..
+  242  ls
+  243  rmdir backup
+  244  ls
+  245  mv backup2 backup
+  246  ls
+  247  pwd
+  248  ls *
+  249  clear
+  250  ls
+  251  rmddir backup
+  252  clear
+  253  rmdir backup
+  254  rm -rf backup
+  255  ls
+  256  clear
+  257  ls
+  258  cd ..
+  259  ls
+  260  cd unix.testes/
+  261  ls
+  262  clear
+  263  touch skilss.txt
+  264  head -5 skilss.txt 
+  265  head -3 skilss.txt 
+  266  head -4 skilss.txt 
+  267  clear
+  268  ls
+  269  rm .txt
+  270  rm --help
+  271  rm whatis
+  272  rm whatls
+  273  rm whatis
+  274  whatis rm
+  275  rm -help
+  276  rm _-help
+  277  rm --help
+  278  clear
+  279  rm -i .txt
+  280  rm .txt
+  281  rm -rf .txt
+  282  ls
+  283  rm ..txt
+  284  rm all .txt
+  285  rm * .txt
+  286  rm *.txt
+  287  rm -i*.txt
+  288  ls
+  289  touch baba.txt
+  290  touch bibi.txt
+  291  ls
+  292  rm *.txt
+  293  ls
+  294  clear
+  295  ls
+  296  cd Documentos
+  297  ls
+  298  cd unix.testes/
+  299  curl -o countries.txt "https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries"
+  300  ls
+  301  cat countries.txt 
+  302  clear
+  303  less countries.txt 
+  304  clear
+  305  less countries.txt 
+  306  clear
+  307  less --help
+  308  less countries.txt 
+  309  clear
+  310  touch phrases..txt
+  311  touch phrases.txt
+  312  ls
+  313  rm phrases..txt
+  314  ls
+  315  r, ==help
+  316  rm --help
+  317  clear
+  318  ls
+  319  less countries.txt 
+  320  locate countries.txt Zambia
+  321  clear
+  322  less countries.txt
+  323  man less
+  324  less --help
+  325  clear
+  326  ls
+  327  echo Meu nome é Plinio >> phrases.txt 
+  328  cat phrases.txt 
+  329  cqcat phrases.txt 
+  330  clear
+  331  echo Tenho 28 anos >> phrases.txt 
+  332  echo Sou estudante do curso da Trybe >> phrases.txt 
+  333  cat phrases.txt 
+  334  man less
+  335  less countries.txt 
+  336  ls *.txt
+  337  ls
+  338  ls *.png
+  339  clear
+  340  grep iv fox phrases.txt 
+  341  grep iv Plinio phrases.txt 
+  342  grep -iv Plinio phrases.txt 
+  343  cat phrases.txt 
+  344  grep -iv fox phrases.txt 
+  345  clear
+  346  wc -l phrases.txt 
+  347  wc -w phrases.txt 
+  348  touch empty.tbt && empty.pdf
+  349  touch empty.tbt
+  350  touch empty.pdf
+  351  ls
+  352  ls *.txt
+  353  ls*[.txt;.pdf]
+  354  ls *[.txt;.pdf]
+  355  ls *{txt,pdf}
+  356  ls *{tbt,pdf}
+  357  clear
+  358  man ls
+  359  ls
+  360  cd Documentos
+  361  ls
+  362  cd trybe.exercicios/
+  363  ls
+  364  cat
+  365  clear
+  366  cat
+  367  cat > cores.txt
+  368  cat cores.txt 
+  369  clear
+  370  ls
+  371  rm cores.txt 
+  372  ls
+  373  cd Documentos
+  374  cd trybe.exercicios/
+  375  ls
+  376  cler
+  377  clear
+  378  cat > cores.txt
+  379  ls
+  380  clear
+  381  cat core
+  382  cat cores.txt 
+  383  clear
+  384  cat > cores.txt 
+  385  cat cores.txt 
+  386  clear
+  387  cat >> cores.txt 
+  388  cat cores.txt 
+  389  clear
+  390  cat > frutas.txt
+  391  clear
+  392  ls
+  393  clear
+  394  cat cores.txt frutas.txt > tudo.txt
+  395  ls
+  396  cat tudo.txt 
+  397  cd Documentos
+  398  cd trybe.exercicios/
+  399  ls
+  400  clear
+  401  fdsafdaf
+  402  clear
+  403  sort < frutas.txt 
+  404  cat cores.txt 
+  405  sort < cores.txt > coresOrdenadas.txt
+  406  ls
+  407  cat coresOrdenadas.txt 
+  408  clear
+  409  sort < cores.txt > coresOrdenadas.txt
+  410  clear
+  411  ls
+  412  clear
+  413  who
+  414  who | sort
+  415  clear
+  416  who | wc
+  417  who | wc -l
+  418  clear
+  419  cat > nomes.txt
+  420  rm nomes.txt 
+  421  ls
+  422  clear
+  423  cat frutas.txt cores.txt >> coresFrutasOrdenadas.txt | sort
+  424  cat coresFrutasOrdenadas.txt 
+  425  rm coresFrutasOrdenadas.txt 
+  426  cat frutas.txt cores.txt >> coresFrutasOrdenadas.txt | sort coresFrutasOrdenadas.txt
+  427  cat coresFrutasOrdenadas.txt 
+  428  clear
+  429  rm coresF
+  430  rm coresFrutasOrdenadas.txt 
+  431  cat frutas.txt cores.txt >> coresFrutasOrdenadas.txt | sort > coresFrutasOrdenadas.txt
+  432  cat coresFrutasOrdenadas.txt 
+  433  clear
+  434  rm coresFrutasOrdenadas.txt 
+  435  cat frutas.txt cores.txt >> coresFrutasOrdenadas.txt | sort >> coresFrutasOrdenadas.txt
+  436  cat coresFrutasOrdenadas.txt 
+  437  clear
+  438  rm coresFrutasOrdenadas.txt 
+  439  cat frutas.txt cores.txt >> coresFrutas.txt | sort < coresFrutas.txt > coresFrutasOrden.txt
+  440  ls
+  441  cat coresFrutasOrden.txt 
+  442  clear
+  443  ls
+  444  ls
+  445  cd Documentos
+  446  cd trybe.exercicios/
+  447  ls
+  448  ls -l
+  449  clear
+  450  cat > trybe.txt
+  451  clear
+  452  ls -l
+  453  ls -l --help
+  454  clear
+  455  ls
+  456  ls -l | cat > dados.txt
+  457  cat dados.txt 
+  458  mkdir arquivos
+  459  ls -l
+  460  chmod u-rw tudo.txt
+  461  ls -l
+  462  chmod u+rw tudo.txt
+  463  ls-l
+  464  ls -l
+  465  clear
+  466  ll
+  467  ps
+  468  sleep 5
+  469  sleep 10 &
+  470  ps
+  471  sleep 1- &
+  472  clear
+  473  job
+  474  jobs
+  475  clear
+  476  jobs
+  477  sleep 20 &
+  478  jobs
+  479  sleep 50 &
+  480  sleep 30 &
+  481  jobs
+  482  sleep 100
+  483  clear
+  484  jobs
+  485  clear
+  486  sleep 100
+  487  pw
+  488  ps
+  489  kill 12742
+  490  ps
+  491  kill %2
+  492  kill 12758
+  493  ps
+  494  kill -9 12742
+  495  ps
+  496  clear
+  497  ps
+  498  kill -9 12758
+  499  ps
+  500  clear
+  501  ps
+  502  kill -9 12847
+  503  p
+  504  jobs
+  505  clear
+  506  < --help
+  507  man <
+  508  ls
+  509  clear
+  510  cat text.txt <<
+  511  cat text.txt << frutas.txt 
+  512  fdsa
+  513  fdsaf
+  514  ls
+  515  rmdir arquivos/
+  516  ls
+  517  cat text.txt < frutas.txt 
+  518  cat text.txt
+  519  cat > text.txt
+  520  cat text.txt < frutas.txt 
+  521  cat text.txt << frutas.txt 
+  522  fds
+  523  fds
+  524  fds
+  525  clear
+  526  cat text.txt
+  527  cat frutas.txt
+  528  clear
+  529  la -la
+  530  who
+  531  ls -la
+  532  clear
+  533  who
+  534  man who
+  535  man ls -la
+  536  who
+  537  man ls -l
+  538  ls -l
+  539  find . -type d
+  540  mkdir ar
+  541  mkdir b
+  542  mkdir c
+  543  ls
+  544  clear
+  545  find . -type d
+  546  find . -name "*.txt"
+  547  find./teste -type d -name "exemplo*"
+  548  mkdir exemplo
+  549  touch exemplo.txt
+  550  ls
+  551  clear
+  552  find./teste -type d -name "exemplo*"
+  553  find ./teste -type d -name "exemplo*"
+  554  find  -type d -name "exemplo*"
+  555  find  -type  -name "exemplo*"
+  556  find  -name "exemplo*"
+  557  clear
+  558  man find
+  559  find --help
+  560  112c
+  561  clear
+  562  mkdir teste
+  563  cd teste
+  564  touch exemplo.txt
+  565  mkdir exemplo
+  566  ls
+  567  cd ..
+  568  ls
+  569  find ./teste -type d -name "exemplo*"
+  570  clear
+  571  rmdir texte
+  572  rmdir teste
+  573  rm -rf teste
+  574  ls
+  575  cd exemplo
+  576  ls
+  577  cd ..
+  578  rm -rf exemplo
+  579  rmdir ar
+  580  rmdir c
+  581  rmdir b
+  582  clear
+  583  ls
+  584  ls Documentos
+  585  cd Docuemtnso
+  586  cd Documentos
+  587  cd trybe.exercicios/
+  588  ls
+  589  clear
+  590  man who
+  591  clear
+  592  man who
+  593  cd ..
+  594  ls
+  595  mkdir aula1-4
+  596  ls
+  597  cd aula1-4/
+  598  ls
+  599  clear
+  600  cd Documentos
+  601  ls
+  602  cd trybe/
+  603  ls
+  604  cd aula1-4/
+  605  clear
+  606  echo boa noite
+  607  clear
+  608  echo boa noite casadas
+  609  clear
+  610  ls
+  611  mkdir animais
+  612  cd animais/
+  613  eho 'doguinho' > animais_fofinhos.txt
+  614  echo 'doguinho' > animais_fofinhos.txt
+  615  cat animais_fofinhos.txt 
+  616  clear
+  617  echo 'gatinho' > animais_fofinhos.txt 
+  618  cat animais_fofinhos.txt 
+  619  echo gatinha > animais_fofinhos.txt 
+  620  cat animais_fofinhos.txt 
+  621  echo doguinho > animais_fofinhos.txt 
+  622  cat animais_fofinhos.txt 
+  623  echo 'gatinho' >> animais_fofinhos.txt 
+  624  cat animais_fofinhos.txt 
+  625  clear
+  626  echo pincher > animais_raivosos.txt
+  627  echo pitbull >> animais_raivosos.txt
+  628  echo hamster >> animais_raivosos.txt
+  629  clear
+  630  cat animais_fofinhos.txt 
+  631  cat animais_furios
+  632  ls
+  633  cat animais_raivosos.txt 
+  634  cat animais_fofinhos.txt animais_raivosos.txt > todos_animais.txt
+  635  cat todos_animais.txt 
+  636  ls
+  637  clear
+  638  cat tigre > fofinhos_raivosos.txt
+  639  cat "tigre" > fofinhos_raivosos.txt
+  640  cat "tigre" >> fofinhos_raivosos.txt
+  641  echo tigre > fofinhos_raivosos.txt
+  642  ls
+  643  clear
+  644  history
+  645  history >> log.txt
+  646  cat log.txt
+  647  clear
+  648  history | tail -15 >> log2.txt
+  649  cat log2.txt 
+  650  clear
+  651  find . -name "*fofinhos"
+  652  find . -name "*fofinhos*"
+  653  man ls -l
+  654  ls -l
+  655  man l
+  656  man ls
+  657  clear
+  658  ls
+  659  cd ..
+  660  ls
+  661  clear
+  662  cd unix.testes/
+  663  ls
+  664  cat skills2.txt
+  665  cat > skills2.txt
+  666  cat >> skills2.txt 
+  667  cat skills2.txt 
+  668  clear
+  669  sort skills2.txt 
+  670  wc -l skills2.txt 
+  671  clear
+  672  cat topskills.txt | head -3 skills2.txt >topskills.txt
+  673  cat topskills.txt 
+  674  cat >  phrases2.txt 
+  675  cat phrases2.txt
+  676  cat >> phrases2.txt
+  677  cat phrases2.txt
+  678  clear
+  679  ls -l phrases2.txt
+  680  wc -w phrases2.txt
+  681  grep br phrases2.txt
+  682  grep br phrases2.txt | wc -l phrases2.txt
+  683  grep br phrases2.txt && wc -l phrases2.txt
+  684  grep br phrases2.txt < wc -l phrases2.txt
+  685  grep br phrases2.txt >> wc -l phrases2.txt
+  686  cat phrases2.txt
+  687  grep br phrases2.txt | wc -l phrases2.txt
+  688  wc -l phrases2.txt | grep br phrases2.txt
+  689  cat >> phrases2.txt
+  690  grep br phrases2.txt
+  691  cat phrases2.txt
+  692  grep 'br' phrases2.txt
+  693  grep "br" phrases2.txt
+  694  grep -i "br" phrases2.txt
+  695  grep -ic "br" phrases2.txt
+  696  cat >> phrases2.txt
+  697  clear
+  698  grep -ic "br" phrases2.txt
+  699  grep -ic "br" phrases2.txt || wc -l 
+  700  grep -ic "br" phrases2.txt || wc -l phrases2.txt
+  701  clear
+  702  grep -c "br" phrases2.txt || wc -l phrases2.txt
+  703  grep -o -i "br" phrases2.txt || wc -l phrases2.txt
+  704  grep -o -i "br" phrases2.txt | wc -l phrases2.txt
+  705  grep -o -i br phrases2.txt | wc -l 
+  706  cat >> phrases2.txt
+  707  grep -o -i br phrases2.txt | wc -l 
+  708  grep -o -iv br phrases2.txt | wc -l 
+  709  cat phrases2.txt
+  710  wc -l phrases2.txt 
+  711  clear
+  712  grep  -iv br phrases2.txt | wc -l 
+  713  grep  -i br phrases2.txt | wc -l 
+  714  grep -o -iv br phrases2.txt | wc -l 
+  715  grep -o -i br phrases2.txt | wc -l 
+  716  cat >> phrases2.txt
+  717  cat phrases2.txt countries.txt > bunch_of_things.txt
+  718  sort bunch_of_things.txt > bunch_of_things.txt 
+  719  cat bunch_of_things.txt 
+  720  ls
+  721  cat bunch_of_things.txt 
+  722  sort bunch_of_things.txt >> bunch_of_things.txt 
+  723  cat bunch_of_things.txt 
+  724  cat phrases2.txt countries.txt >> bunch_of_things.txt
+  725  cat bunch_of_things.txt 
+  726  sort bunch_of_things.txt >> bunch_of_things.txt 
+  727  cat bunch_of_things.txt 
+  728  clear
+  729  ls
+  730  ls -l
+  731  chmod -a -rw bunch_of_things.txt 
+  732  chmod --help
+  733  man chmod
+  734  clear
+  735  ls -l
+  736  chmod a -rw bunch_of_things.txt 
+  737  chmod all -rw bunch_of_things.txt 
+  738  chmod u -rw bunch_of_things.txt 
+  739  chmod -u -rw bunch_of_things.txt 
+  740  ls -l
+  741  chmod -u +rw bunch_of_things.txt 
+  742  chmod a+rw bunch_of_things.txt 
+  743  ls -l
+  744  chmod a+r bunch_of_things.txt 
+  745  clear
+  746  ls -l
+  747  chmod a-r bunch_of_things.txt 
+  748  ls -l
+  749  chmod a+r bunch_of_things.txt 
+  750  ls -l
+  751  clear
+  752  chmod a-w bunch_of_things.txt 
+  753  ls -l
+  754  chmod u+w bunch_of_things.txt 
+  755  ls -l
+  756  clear
+  757  ps
+  758  sleep 30 &
+  759  ps
+  760  kill 23442
+  761  ps
+  762  clear
+  763  sleep 30
+  764  bg
+  765  ls
+  766  ps
+  767  kill 23539
+  768  clear
+  769  ps
+  770  clear
+  771  sleep 300 &
+  772  sleep 200
+  773  bg
+  774  sleep 100
+  775  bg
+  776  clear
+  777  jobs
+  778  ps
+  779  kill 23773 | kill 23780 | kill 23782
+  780  clear
+  781  sleep 300 &
+  782  clear
+  783  sleep 200
+  784  sleepp 100
+  785  clear
+  786  sleep 100
+  787  jobs
+  788  fg 1
+  789  bg 3
+  790  sleep
+  791  kill all
+  792  ps
+  793  kill  23807 && 23812 && 23833
+  794  kill   23812 && 23833
+  795  kill   23833
+  796  ps
+  797  kill 23807
+  798  kill 32812
+  799  kill 23812
+  800  clear
+  801  ps
+  802  kill 32807
+  803  kill 23807
+  804  ps
+  805  kill 23807
+  806  ps
+  807  kill 23812
+  808  clear
+  809  ps
+  810  kill -23807
+  811  kill --help
+  812  clear
+  813  ps
+  814  kill | 23807
+  815  ps
+  816  kiclea
+  817  clear
+  818  ps
+  819  kill 23007
+  820  kill 23807
+  821  ps
+  822  job
+  823  jobs
+  824  kill 1
+  825  bg 1 | bg 2
+  826  bg 1
+  827  bg 2
+  828  clear
+  829  ps
+  830  clear
+  831  ps
+  832  sudo apt-get install cmatrix 
+  833  clear
+  834  sudo apt-get install fortune
+  835  fortune
+  836  fortune > fortune.txt
+  837  cat fortune.txt 
+  838  wc -w fortune.txt 
+  839  sudo apt-get install sl
+  840  sudo apt-get install cowsay
+  841  cowsay what does the fox say
+  842  factor 42
+  843  factor 600000000
+  844  factor 6232312412
+  845  factor --help
+  846  clear
+  847  telnet towel.blinkenlights.nl
+  848  ls
+  849  cd documentos
+  850  cd Documentos
+  851  ls
+  852  cd trybe/
+  853  ls
+  854  cd unix.testes/
+  855  ls
+  856  head -15 countries.txt 
+  857  wc countries.txt 
+  858  clear
+  859  echo plinio
+  860  pwd
+  861  ps
+  862  sudo apt-get install git-all
+  863  git --version
+  864  vit confi
+  865  clear
+  866  git config --global user.name Plinio Moraes
+  867  git config --global user.email psmoraes@inf.ufpel.edu.br
+  868  git config --global core.editor "code --wait"
+  869  git config --global core.editor code --wait
+  870  ls
+  871  code .gitconfig
+  872  git config --global user.name PlinioMoraes
+  873  code .gitconfig
+  874  git --version
+  875  git config --list
+  876  clear
+  877  ls
+  878  cd Documentos
+  879  ls
+  880  cd trybe/
+  881  ls
+  882  clear
+  883  mkdir iniciando-git
+  884  ls
+  885  clear
+  886  cd iniciando-git/
+  887  git init
+  888  git status
+  889  ctouch 
+  890  clear
+  891  cat > meu_arquivos
+  892  cat > meu_arquivo
+  893  ls
+  894  rm meu_arquivos
+  895  ls
+  896  cat meu_arquivo 
+  897  ls
+  898  clear
+  899  git status
+  900  git add
+  901  git add meu_arquivo 
+  902  clear
+  903  git commit -m "Cria o arquivos meu_arquivo.txt"
+  904  git status
+  905  ssd-keygen -t rsa -b 4096 -C psmoraes@inf.ufpel.edu.br
+  906  ssh-keygen -t rsa -b 4096 -C psmoraes@inf.ufpel.edu.br
+  907  cd
+  908  ls
+  909  ls -l
+  910  cd Público
+  911  ls
+  912  cd
+  913  psw
+  914  pwd
+  915  cd .ssh
+  916  ls
+  917  cd
+  918  eval "$(ssh-agent -s)"
+  919  ssd-add /home/plinio/.ssh/id_rsa
+  920  cd .ssh
+  921  eval "$(ssh-agent -s)"
+  922  ls
+  923  ssd-add id_rsa
+  924  eval "$(ssh-agent -s)"
+  925  ps
+  926  clear
+  927  ls
+  928  eval "$(ssh-agent -s)"
+  929  ssh-add ~/.ssh/id_rsa
+  930  sudo apt-get install xclip
+  931  xclip -sel clip < ~/.ssh/id_rsa.pub
+  932  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDMhepJZhcdthfoSnq8k3EH94RWpq4QOaFmvJfRwoa0DNJR9PpyMbJijxnz19NNZXXfTcX7LY/ChiQr+4IblgTmUMAF6AanZjpR2ugBsGsNz/ycCcjg8PCYQ4Tv4dyh89u/SMnv6tCorbRa6B+4YaO01TkabOL86OBkYs4S2gezidSoW7TlOcZBfYosMbAdsfhLnCgfaf6eOKTpgmJhUPLYyG7CUK8iA9lW1DUBw8Ttdo3PylNr0ACGSKCiaEN7F0gs3AAMoYsiX9VG0ns6j1/yLhsE/QAZz5AVB92C21BFlQbXXGA7c25IOXMzVaIZPAhDfmUY8aLmqNfUy/1XrvQKMPIeWBNNqcOehPIpnR90PCpUEdEso3sD0yuYjJ5Ou8oJkoh6efVrRPxMdFgfObNbyX9hp0Br5HBQTMgYKjcJSsNkbqdQcl3uvsCn4D4Ykdq+jEumvXwlZvNJKGuWJKVpKqJrR5uzmsQMef3DfF963uoHvTH7IMEm4OAEOFDzpk7GD1WQeXCmRYLiy/gHDvFEUbJtsG8Ev756JWLzXJWZD1ohHLvA1CylHlamyO0ZGxx1kLYuW3m4fyPP5CU/W5x+/1zMgFQ0IxY0RqiJ+3mxS/ylZ2SKZ2ZTeK6fllxt4Ee91NiX3Uw6cYXL63JIULhu2r7vepO89T/2rKMsN6PZnQ== psmoraes@inf.ufpel.edu.br
+  933  cd
+  934  ls
+  935  cd Documentos
+  936  ls
+  937  cd trybe/
+  938  ls
+  939  cd iniciando-git/
+  940  git remote add origin git@github.com:plinio441/meu-super-repo.git
+  941  git remote -v
+  942  git status
+  943  git push origin master
+  944  ls
+  945  cd Documentos
+  946  ls
+  947  cd trybe/
+  948  ls
+  949  cd iniciando-git/
+  950  ls
+  951  cd ..
+  952  ls
+  953  cd Bloco 2
+  954  cd Bloco_2
+  955  cd Bloco 2
+  956  cd Bloco\2
+  957  cd Bloco\ 
+  958  clear
+  959  cd Bloco
+  960  clear
+  961  ls
+  962  cd Bloco-2
+  963  mkdir aula2.1
+  964  ls
+  965  cd aula2.1
+  966  ls
+  967  clear
+  968  ls
+  969  git status
+  970  git init
+  971  git status
+  972  ls -la
+  973  ls
+  974  clear
+  975  ls -la
+  976  cd .git
+  977  ls
+  978  cd ..
+  979  clear
+  980  ls -la
+  981  touch comidasMaravilhosas.txt
+  982  ls
+  983  git status
+  984  clear
+  985  git add comidasMaravilhosas.txt 
+  986  git status
+  987  git commit -m "criando arquivo comidas maravilhosas"
+  988  git status
+  989  clear
+  990  git status
+  991  git log
+  992  cat >> comidasMaravilhosas.txt 
+  993  git status
+  994  git add comidasMaravilhosas.txt 
+  995  git status
+  996  git commit -m "adicionando comidas"
+  997  git status
+  998  git log
+  999  clear
+ 1000  git branch
+ 1001  git branch comidas_plinio
+ 1002  git branch
+ 1003  git checkout comidas_plinio 
+ 1004  git branch
+ 1005  ls
+ 1006  cat comidasMaravilhosas.txt 
+ 1007  clear
+ 1008  cat >> comidasMaravilhosas.txt 
+ 1009  git status
+ 1010  git add comidasMaravilhosas.txt 
+ 1011  git commit -m "Mais comidas maravilhosas"
+ 1012  git status
+ 1013  git log
+ 1014  cllear
+ 1015  clear
+ 1016  git checkout master
+ 1017  git merge comidas_plinio 
+ 1018  ls
+ 1019  cat comidasMaravilhosas.txt 
+ 1020  git branch -d comidas_plinio 
+ 1021  git log
+ 1022  git status
+ 1023  git branch
+ 1024  clear
+ 1025  history
+ 1026  history >> logAula2.1.txt
+ 1027  ls
+ 1028  history
+ 1029  history tail -300 >> logDia2.txt
+ 1030  history tail -300
+ 1031  history | tail-300
+ 1032  tail -300 logAula2.2
+ 1033  clear
+ 1034  ls
+ 1035  tail -200 logDia2.txt
+ 1036  ls
+ 1037  tail logdia2.txt
+ 1038  tail logDia2.txt
+ 1039  cat logDia2.txt
+ 1040  clear
+ 1041  ls
+ 1042  tail logAula2.1.txt 
+ 1043  tail -50 logAula2.1.txt 
+ 1044  tail -100 logAula2.1.txt 
+ 1045  tail -100 logAula2.1.txt > logAula2.1.txt 
+ 1046  clear
+ 1047  cat logAula2.1.txt 
+ 1048  ls
+ 1049  cat logAula2.1.txt 
+ 1050  history 
+ 1051  history > logAula2.1.txt 

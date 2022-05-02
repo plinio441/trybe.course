@@ -1,0 +1,200 @@
+  852  cd trybe/
+  853  ls
+  854  cd unix.testes/
+  855  ls
+  856  head -15 countries.txt 
+  857  wc countries.txt 
+  858  clear
+  859  echo plinio
+  860  pwd
+  861  ps
+  862  sudo apt-get install git-all
+  863  git --version
+  864  vit confi
+  865  clear
+  866  git config --global user.name Plinio Moraes
+  867  git config --global user.email psmoraes@inf.ufpel.edu.br
+  868  git config --global core.editor "code --wait"
+  869  git config --global core.editor code --wait
+  870  ls
+  871  code .gitconfig
+  872  git config --global user.name PlinioMoraes
+  873  code .gitconfig
+  874  git --version
+  875  git config --list
+  876  clear
+  877  ls
+  878  cd Documentos
+  879  ls
+  880  cd trybe/
+  881  ls
+  882  clear
+  883  mkdir iniciando-git
+  884  ls
+  885  clear
+  886  cd iniciando-git/
+  887  git init
+  888  git status
+  889  ctouch 
+  890  clear
+  891  cat > meu_arquivos
+  892  cat > meu_arquivo
+  893  ls
+  894  rm meu_arquivos
+  895  ls
+  896  cat meu_arquivo 
+  897  ls
+  898  clear
+  899  git status
+  900  git add
+  901  git add meu_arquivo 
+  902  clear
+  903  git commit -m "Cria o arquivos meu_arquivo.txt"
+  904  git status
+  905  ssd-keygen -t rsa -b 4096 -C psmoraes@inf.ufpel.edu.br
+  906  ssh-keygen -t rsa -b 4096 -C psmoraes@inf.ufpel.edu.br
+  907  cd
+  908  ls
+  909  ls -l
+  910  cd Público
+  911  ls
+  912  cd
+  913  psw
+  914  pwd
+  915  cd .ssh
+  916  ls
+  917  cd
+  918  eval "$(ssh-agent -s)"
+  919  ssd-add /home/plinio/.ssh/id_rsa
+  920  cd .ssh
+  921  eval "$(ssh-agent -s)"
+  922  ls
+  923  ssd-add id_rsa
+  924  eval "$(ssh-agent -s)"
+  925  ps
+  926  clear
+  927  ls
+  928  eval "$(ssh-agent -s)"
+  929  ssh-add ~/.ssh/id_rsa
+  930  sudo apt-get install xclip
+  931  xclip -sel clip < ~/.ssh/id_rsa.pub
+  932  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDMhepJZhcdthfoSnq8k3EH94RWpq4QOaFmvJfRwoa0DNJR9PpyMbJijxnz19NNZXXfTcX7LY/ChiQr+4IblgTmUMAF6AanZjpR2ugBsGsNz/ycCcjg8PCYQ4Tv4dyh89u/SMnv6tCorbRa6B+4YaO01TkabOL86OBkYs4S2gezidSoW7TlOcZBfYosMbAdsfhLnCgfaf6eOKTpgmJhUPLYyG7CUK8iA9lW1DUBw8Ttdo3PylNr0ACGSKCiaEN7F0gs3AAMoYsiX9VG0ns6j1/yLhsE/QAZz5AVB92C21BFlQbXXGA7c25IOXMzVaIZPAhDfmUY8aLmqNfUy/1XrvQKMPIeWBNNqcOehPIpnR90PCpUEdEso3sD0yuYjJ5Ou8oJkoh6efVrRPxMdFgfObNbyX9hp0Br5HBQTMgYKjcJSsNkbqdQcl3uvsCn4D4Ykdq+jEumvXwlZvNJKGuWJKVpKqJrR5uzmsQMef3DfF963uoHvTH7IMEm4OAEOFDzpk7GD1WQeXCmRYLiy/gHDvFEUbJtsG8Ev756JWLzXJWZD1ohHLvA1CylHlamyO0ZGxx1kLYuW3m4fyPP5CU/W5x+/1zMgFQ0IxY0RqiJ+3mxS/ylZ2SKZ2ZTeK6fllxt4Ee91NiX3Uw6cYXL63JIULhu2r7vepO89T/2rKMsN6PZnQ== psmoraes@inf.ufpel.edu.br
+  933  cd
+  934  ls
+  935  cd Documentos
+  936  ls
+  937  cd trybe/
+  938  ls
+  939  cd iniciando-git/
+  940  git remote add origin git@github.com:plinio441/meu-super-repo.git
+  941  git remote -v
+  942  git status
+  943  git push origin master
+  944  ls
+  945  cd Documentos
+  946  ls
+  947  cd trybe/
+  948  ls
+  949  cd iniciando-git/
+  950  ls
+  951  cd ..
+  952  ls
+  953  cd Bloco 2
+  954  cd Bloco_2
+  955  cd Bloco 2
+  956  cd Bloco\2
+  957  cd Bloco\ 
+  958  clear
+  959  cd Bloco
+  960  clear
+  961  ls
+  962  cd Bloco-2
+  963  mkdir aula2.1
+  964  ls
+  965  cd aula2.1
+  966  ls
+  967  clear
+  968  ls
+  969  git status
+  970  git init
+  971  git status
+  972  ls -la
+  973  ls
+  974  clear
+  975  ls -la
+  976  cd .git
+  977  ls
+  978  cd ..
+  979  clear
+  980  ls -la
+  981  touch comidasMaravilhosas.txt
+  982  ls
+  983  git status
+  984  clear
+  985  git add comidasMaravilhosas.txt 
+  986  git status
+  987  git commit -m "criando arquivo comidas maravilhosas"
+  988  git status
+  989  clear
+  990  git status
+  991  git log
+  992  cat >> comidasMaravilhosas.txt 
+  993  git status
+  994  git add comidasMaravilhosas.txt 
+  995  git status
+  996  git commit -m "adicionando comidas"
+  997  git status
+  998  git log
+  999  clear
+ 1000  git branch
+ 1001  git branch comidas_plinio
+ 1002  git branch
+ 1003  git checkout comidas_plinio 
+ 1004  git branch
+ 1005  ls
+ 1006  cat comidasMaravilhosas.txt 
+ 1007  clear
+ 1008  cat >> comidasMaravilhosas.txt 
+ 1009  git status
+ 1010  git add comidasMaravilhosas.txt 
+ 1011  git commit -m "Mais comidas maravilhosas"
+ 1012  git status
+ 1013  git log
+ 1014  cllear
+ 1015  clear
+ 1016  git checkout master
+ 1017  git merge comidas_plinio 
+ 1018  ls
+ 1019  cat comidasMaravilhosas.txt 
+ 1020  git branch -d comidas_plinio 
+ 1021  git log
+ 1022  git status
+ 1023  git branch
+ 1024  clear
+ 1025  history
+ 1026  history >> logAula2.1.txt
+ 1027  ls
+ 1028  history
+ 1029  history tail -300 >> logDia2.txt
+ 1030  history tail -300
+ 1031  history | tail-300
+ 1032  tail -300 logAula2.2
+ 1033  clear
+ 1034  ls
+ 1035  tail -200 logDia2.txt
+ 1036  ls
+ 1037  tail logdia2.txt
+ 1038  tail logDia2.txt
+ 1039  cat logDia2.txt
+ 1040  clear
+ 1041  ls
+ 1042  tail logAula2.1.txt 
+ 1043  tail -50 logAula2.1.txt 
+ 1044  tail -100 logAula2.1.txt 
+ 1045  tail -100 logAula2.1.txt > logAula2.1.txt 
+ 1046  clear
+ 1047  cat logAula2.1.txt 
+ 1048  ls
+ 1049  cat logAula2.1.txt 
+ 1050  history 
+ 1051  history > logAula2.1.txt 
